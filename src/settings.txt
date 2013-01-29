@@ -1,0 +1,5 @@
+{num_of_station, 50}.
+{reception_radius, 150}.
+{station_speed, 20}.
+{length, 300}.
+{paint_station, 3}.
